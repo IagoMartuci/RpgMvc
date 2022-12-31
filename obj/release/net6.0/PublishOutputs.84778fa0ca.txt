@@ -1,0 +1,16 @@
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\RpgMvc.exe
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\publish\web.config
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\appsettings.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\publish\appsettings.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\publish\RpgMvc.deps.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\publish\RpgMvc.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\RpgMvc.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\RpgMvc.deps.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\RpgMvc.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\RpgMvc.pdb
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\publish\Newtonsoft.Json.Bson.dll

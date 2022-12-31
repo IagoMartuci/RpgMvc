@@ -1,0 +1,129 @@
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\appsettings.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\RpgMvc.staticwebassets.runtime.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\RpgMvc.exe
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\RpgMvc.deps.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\RpgMvc.runtimeconfig.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\RpgMvc.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\RpgMvc.pdb
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cs
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\scopedcss\bundle\RpgMvc.styles.css
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CopyComplete
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\refint\RpgMvc.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.pdb
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\RpgMvc.genruntimeconfig.cache
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\obj\release\net6.0\ref\RpgMvc.dll
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\publish\web.config
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\publish\appsettings.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\publish\RpgMvc.deps.json
+C:\Users\iagom\Desktop\C#\21-11-2022\RpgMvc\bin\release\net6.0\publish\RpgMvc.runtimeconfig.json
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\appsettings.json
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.staticwebassets.runtime.json
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.exe
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.deps.json
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.runtimeconfig.json
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.dll
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.pdb
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\bin\release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfo.cs
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cache
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cs
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\scopedcss\bundle\RpgMvc.styles.css
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CopyComplete
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.dll
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\refint\RpgMvc.dll
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.pdb
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.genruntimeconfig.cache
+C:\Users\iagom\Desktop\05-12-2022 Aula Teams\RpgMvc\obj\release\net6.0\ref\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.staticwebassets.runtime.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.exe
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.deps.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\RpgMvc.pdb
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\bin\release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\scopedcss\bundle\RpgMvc.styles.css
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CopyComplete
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\refint\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.pdb
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\RpgMvc.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\obj\release\net6.0\ref\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\RpgMvc.staticwebassets.runtime.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\RpgMvc.exe
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\RpgMvc.deps.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\RpgMvc.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\RpgMvc.pdb
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\bin\release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.csproj.AssemblyReference.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfoInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CoreCompileInputs.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cs
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\staticwebassets.build.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\staticwebassets.development.json
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\scopedcss\bundle\RpgMvc.styles.css
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CopyComplete
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\refint\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.pdb
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.genruntimeconfig.cache
+C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\ref\RpgMvc.dll

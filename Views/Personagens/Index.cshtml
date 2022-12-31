@@ -1,0 +1,72 @@
+<!--Namespace da classe de Modelo para esta view-->
+@model IEnumerable<RpgMvc.Models.PersonagemViewModel>
+
+<!--Inclua os TempData para Sucesso e Erro aqui, conforme exemplo na view de Autenticação-->
+<!--Configuração para exibir mensagem de sucesso -->
+@if (@TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensagem"]</div>
+}
+<!--Configuração para exibir mensagem de erro -->
+@if (@TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]</div>
+}
+
+@{
+    ViewBag.Title = "Personagens";
+}
+<!--Título da página para o navegador-->
+<h2>Relação de Personagens</h2>
+<!--Título da página-->
+<p>
+    <!--Links apontando para views na mesma pasta-->
+<div class="form-group d-flex flex-row-reverse mt-3">
+    <div class="col-md-offset-2 d-flex flex-row-reverse col-md-6">
+            @Html.ActionLink("Criar Personagem", "Create", "Personagens", null, new {@class = "btn btn-primary"})
+    </div>
+</div>
+</p>
+<table class="table">
+    <tr>
+        <!--Títulos das colunas da tabela-->
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <th>@Html.DisplayNameFor(model => model.Nome)</th>
+        <th>@Html.DisplayNameFor(model => model.PontosVida)</th>
+        <th>@Html.DisplayNameFor(model => model.Classe)</th>
+        <th>@Html.DisplayNameFor(model => model.Disputas)</th>
+        <th>@Html.DisplayNameFor(model => model.Vitorias)</th>
+        <th>@Html.DisplayNameFor(model => model.Derrotas)</th>
+        <th></th>
+    </tr>
+    <!--Looping para escrever os dados na tabela-->
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Id)</td>
+            <td>@Html.DisplayFor(modelItem => item.Nome)</td>
+            <td>@Html.DisplayFor(modelItem => item.PontosVida)</td>
+            <td>@Html.DisplayFor(modelItem => item.Classe)</td>
+            <td>@Html.DisplayFor(modelItem => item.Disputas )</td>
+            <td>@Html.DisplayFor(modelItem => item.Vitorias)</td>
+            <td>@Html.DisplayFor(modelItem => item.Derrotas)</td>
+            <td>
+                <!--Coluna para Links/botões-->
+            @Html.ActionLink("Editar", "Edit", new { id = item.Id } ) |
+                @Html.ActionLink("Detalhes", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Deletar", "Delete", new { id = item.Id },
+            new {onclick = "return confirm('Deseja realmente deletar este personagem?');"})
+            </td>
+        </tr>
+    }
+</table>
+@Html.ActionLink("Disputa com Armas", "Index", "Disputas",
+null, new {@class ="btn btn-secondary"})
+@Html.ActionLink("Disputa com Habilidades", "IndexHabilidades", "Disputas",
+null, new {@class ="btn btn-secondary"})
+@Html.ActionLink("Disputa Geral", "DisputaGeral", "Disputas",
+null, new {@class ="btn btn-secondary"})
+@Html.ActionLink("Zerar Ranking e Restaurar Vidas", "ZerarRankingRestaurarVidas", "Personagens",
+null, new {@class ="btn btn-danger", onclick = "return confirm('Deseja realmente realizar esta ação?');"})

@@ -1,0 +1,49 @@
+@model RpgMvc.Models.DisputaViewModel
+@{
+    ViewBag.Title = "Index";
+}
+@if (@TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensagem"]</div>
+}
+@if (@TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]</div>
+}
+<h2>Ataque com Habilidade</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            @Html.DisplayName("Atacante")
+            <div class="col-md-4">
+                @Html.DropDownListFor(model => model.AtacanteId, new SelectList(@ViewBag.ListaAtacantes, "Id",
+            "Nome"),
+            "---Selecione---", new { @class = "form-control" })</div>
+        </div>
+        <div class="form-group">
+            @Html.DisplayName("Habilidade")
+            <div class="col-md-4">
+                @Html.DropDownListFor(model => model.HabilidadeId, new SelectList(@ViewBag.ListaHabilidades,
+            "Id", "Nome"), "---Selecione---", new { @class = "form-control" })</div>
+        </div>
+        <div class="form-group">
+            @Html.DisplayName("Oponente")
+            <div class="col-md-4">
+                @Html.DropDownListFor(model => model.OponenteId, new SelectList(@ViewBag.ListaOponentes, "Id",
+            "Nome"),
+            "---Selecione---", new { @class = "form-control" })</div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-6 mt-3">
+                <input type="submit" value="Atacar" class="btn btn-primary" />
+                @Html.ActionLink("Retornar", "Index", "Personagens", null, new {@class ="btn btn-warning"})
+            </div>
+        </div>
+    </div>
+}
+<!--<div>@Html.ActionLink("Retornar", "Index", "Personagens")</div>-->

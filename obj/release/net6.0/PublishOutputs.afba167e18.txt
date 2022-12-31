@@ -1,0 +1,11 @@
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\RpgMvc.exe
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\appsettings.Development.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\appsettings.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\RpgMvc.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\RpgMvc.deps.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\RpgMvc.runtimeconfig.json
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\RpgMvc.pdb
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\Newtonsoft.Json.dll
+C:\Users\iagom\Desktop\Estudar C#\05-12-2022 - Aula Teams\RpgMvc\publish\Newtonsoft.Json.Bson.dll
