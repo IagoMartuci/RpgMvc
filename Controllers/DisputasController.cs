@@ -14,7 +14,6 @@ namespace RpgMvc.Controllers
     public class DisputasController : Controller
     {
         public string uriBase = "http://iagomartuci.somee.com/RpgApi/Disputas/";
-        //public string uriBase = "http://iagomartuci-etec.somee.com/RpgApi/Disputas/";
 
         //Programação aqui
         [HttpGet]
@@ -33,7 +32,6 @@ namespace RpgMvc.Controllers
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
                 string uriBuscaPersonagens = "http://iagomartuci.somee.com/RpgApi/Personagens/GetAll";
-                //string uriBuscaPersonagens = "http://iagomartuci-etec.somee.com/RpgApi/Personagens/GetAll";
                 HttpResponseMessage response = await httpClient.GetAsync(uriBuscaPersonagens);
                 string serialized = await response.Content.ReadAsStringAsync();
 
@@ -111,7 +109,6 @@ namespace RpgMvc.Controllers
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
                 string uriBuscaPersonagens = "http://iagomartuci.somee.com/RpgApi/Personagens/GetAll";
-                //string uriBuscaPersonagens = "http://iagomartuci-etec.somee.com/RpgApi/Personagens/GetAll";
                 HttpResponseMessage response = await httpClient.GetAsync(uriBuscaPersonagens);
                 string serialized = await response.Content.ReadAsStringAsync();
 
@@ -129,7 +126,6 @@ namespace RpgMvc.Controllers
                 }
 
                 string uriBuscaHabilidades = "http://iagomartuci.somee.com/RpgApi/PersonagemHabilidades/GetHabilidades";
-                //string uriBuscaHabilidades = "http://iagomartuci-etec.somee.com/RpgApi/PersonagemHabilidades/GetHabilidades";
                 response = await httpClient.GetAsync(uriBuscaHabilidades);
                 serialized = await response.Content.ReadAsStringAsync();
 
@@ -207,7 +203,6 @@ namespace RpgMvc.Controllers
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
                 string uriBuscaPersonagens = "http://iagomartuci.somee.com/RpgApi/Personagens/GetAll";
-                //string uriBuscaPersonagens = "http://iagomartuci-etec.somee.com/RpgApi/Personagens/GetAll";
                 HttpResponseMessage response = await httpClient.GetAsync(uriBuscaPersonagens);
 
                 string serialized = await response.Content.ReadAsStringAsync();
@@ -216,7 +211,6 @@ namespace RpgMvc.Controllers
                     JsonConvert.DeserializeObject<List<PersonagemViewModel>>(serialized));
 
                 string uriDisputa =  "http://iagomartuci.somee.com/RpgApi/Disputas/DisputaEmGrupo";
-                //string uriDisputa = "http://iagomartuci-etec.somee.com/RpgApi/Disputas/DisputaEmGrupo";
                 DisputaViewModel disputa = new DisputaViewModel();
                 disputa.ListaIdPersonagens = new List<int>();
                 disputa.ListaIdPersonagens.AddRange(listaPersonagens.Select(p => p.Id));

@@ -14,7 +14,6 @@ namespace RpgMvc.Controllers
     public class PersonagensController : Controller
     {
         public string uriBase = "http://iagomartuci.somee.com/RpgApi/Personagens/";
-        //public string uriBase = "http://iagomartuci-etec.somee.com/RpgApi/Personagens/";
 
         [HttpGet]
         public async Task<ActionResult> IndexAsync()
@@ -27,7 +26,8 @@ namespace RpgMvc.Controllers
                     return RedirectToAction("IndexLogin", "Usuarios"); //Método: IndexLogin e Controller: Usuarios ("IndexLogin", "Usuarios")
                 }
 
-                string uriComplementar = "GetAll";
+                //string uriComplementar = "GetAll";
+                string uriComplementar = "GetByPerfil";
                 HttpClient httpClient = new HttpClient();
                 string token = HttpContext.Session.GetString("SessionTokenUsuario");
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
@@ -191,7 +191,7 @@ namespace RpgMvc.Controllers
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
                 //Início da Validação de Nome de Personagem existente pelo MVC (pode ser implementado também na API)
-                /*string uriComplementarGetAll = "GetAll";
+                string uriComplementarGetAll = "GetAll";
                 HttpResponseMessage responseGetAll = await httpClient.GetAsync(uriBase + uriComplementarGetAll);
                 string serializedGetAll = await responseGetAll.Content.ReadAsStringAsync();
 
@@ -208,7 +208,7 @@ namespace RpgMvc.Controllers
                 else
                 {
                     throw new Exception(serializedGetAll);
-                }*/
+                }
                 //Fim da Validação de Nome de Personagem existente pelo MVC
 
                 var content = new StringContent(JsonConvert.SerializeObject(p));

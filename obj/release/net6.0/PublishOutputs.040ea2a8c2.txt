@@ -1,0 +1,11 @@
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\RpgMvc.exe
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\appsettings.Development.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\appsettings.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\RpgMvc.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\RpgMvc.deps.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\RpgMvc.runtimeconfig.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\RpgMvc.pdb
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\Newtonsoft.Json.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\publish\Newtonsoft.Json.Bson.dll

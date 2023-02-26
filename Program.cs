@@ -6,7 +6,7 @@ builder.Services.AddControllersWithViews();
 //Controla o tempo que a sessão ficará ativa
 builder.Services.AddSession(options =>
 {
-options.IdleTimeout = System.TimeSpan.FromSeconds(60);
+    options.IdleTimeout = System.TimeSpan.FromSeconds(300);
 });
 
 var app = builder.Build();

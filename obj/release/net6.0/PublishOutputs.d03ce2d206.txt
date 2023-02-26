@@ -1,0 +1,11 @@
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\RpgMvc.exe
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\appsettings.Development.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\appsettings.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\RpgMvc.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\RpgMvc.deps.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\RpgMvc.runtimeconfig.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\RpgMvc.pdb
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\Newtonsoft.Json.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\publish\Newtonsoft.Json.Bson.dll

@@ -239,24 +239,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iagom\\.nuget\\packages\\": {}
+    "C:\\Users\\iagom\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iagom\\Desktop\\Estudar C#\\Estudo Férias\\RpgMvc\\RpgMvc.csproj",
+      "projectUniqueName": "C:\\ADS\\01.ETEC\\3DS\\PMII\\RPG\\RpgMvc\\RpgMvc.csproj",
       "projectName": "RpgMvc",
-      "projectPath": "C:\\Users\\iagom\\Desktop\\Estudar C#\\Estudo Férias\\RpgMvc\\RpgMvc.csproj",
+      "projectPath": "C:\\ADS\\01.ETEC\\3DS\\PMII\\RPG\\RpgMvc\\RpgMvc.csproj",
       "packagesPath": "C:\\Users\\iagom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iagom\\Desktop\\Estudar C#\\Estudo Férias\\RpgMvc\\obj\\",
+      "outputPath": "C:\\ADS\\01.ETEC\\3DS\\PMII\\RPG\\RpgMvc\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\iagom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\iagom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -299,7 +307,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -127,3 +127,70 @@ C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\refin
 C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.pdb
 C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\RpgMvc.genruntimeconfig.cache
 C:\Users\iagom\Desktop\Estudar C#\Estudo Férias\RpgMvc\obj\release\net6.0\ref\RpgMvc.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\appsettings.Development.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\appsettings.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\RpgMvc.staticwebassets.runtime.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\RpgMvc.exe
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\RpgMvc.deps.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\RpgMvc.runtimeconfig.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\RpgMvc.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\RpgMvc.pdb
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\Newtonsoft.Json.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\bin\release\net6.0\Newtonsoft.Json.Bson.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.csproj.AssemblyReference.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfoInputs.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfo.cs
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CoreCompileInputs.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cs
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\staticwebassets.build.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\staticwebassets.development.json
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\scopedcss\bundle\RpgMvc.styles.css
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CopyComplete
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\refint\RpgMvc.dll
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.pdb
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\RpgMvc.genruntimeconfig.cache
+C:\ADS\CSharp\ETEC\Revisão 2023\Projetos_Iago_Ultimas_Versoes\RpgMvc\obj\release\net6.0\ref\RpgMvc.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\appsettings.Development.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\appsettings.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\RpgMvc.staticwebassets.runtime.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\RpgMvc.exe
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\RpgMvc.deps.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\RpgMvc.runtimeconfig.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\RpgMvc.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\RpgMvc.pdb
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\Newtonsoft.Json.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\bin\release\net6.0\Newtonsoft.Json.Bson.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.csproj.AssemblyReference.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfoInputs.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.AssemblyInfo.cs
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CoreCompileInputs.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.RazorAssemblyInfo.cs
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\staticwebassets\msbuild.RpgMvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\staticwebassets\msbuild.build.RpgMvc.props
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\staticwebassets\msbuild.buildMultiTargeting.RpgMvc.props
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\staticwebassets\msbuild.buildTransitive.RpgMvc.props
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\staticwebassets.pack.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\staticwebassets.build.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\staticwebassets.development.json
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\scopedcss\bundle\RpgMvc.styles.css
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.csproj.CopyComplete
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\refint\RpgMvc.dll
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.pdb
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\RpgMvc.genruntimeconfig.cache
+C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\obj\release\net6.0\ref\RpgMvc.dll

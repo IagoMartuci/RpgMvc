@@ -9,7 +9,6 @@ namespace RpgMvc.Controllers
     public class UsuariosController : Controller
     {
         public string uriBase = "http://iagomartuci.somee.com/RpgApi/Usuarios/";
-        //public string uriBase = "http://iagomartuci-etec.somee.com/RpgApi/Usuarios/";
 
         [HttpGet]
         public ActionResult Index()
@@ -69,13 +68,17 @@ namespace RpgMvc.Controllers
 
                 string serialized = await response.Content.ReadAsStringAsync();
 
+                UsuarioViewModel usuarioToken = await Task.Run(() =>
+                            JsonConvert.DeserializeObject<UsuarioViewModel>(serialized));
+
                 if (response.StatusCode == System.Net.HttpStatusCode.OK)
                 {
                     string uriComplementarPerfil = $"GetByLogin/{u.UserName}";
                     HttpResponseMessage responsePerfil = await httpClient.GetAsync(uriBase + uriComplementarPerfil);
                     string serializedPerfil = await responsePerfil.Content.ReadAsStringAsync();
 
-                    if (response.StatusCode == System.Net.HttpStatusCode.OK) // OU (responsePerfil.StatusCode == System.Net.HttpStatusCode.OK) ?
+                    if (responsePerfil.StatusCode == System.Net.HttpStatusCode.OK)
+                    //(response.StatusCode == System.Net.HttpStatusCode.OK) Antigo (Sem token)
                     {
                         UsuarioViewModel usuario = await Task.Run(() =>
                             JsonConvert.DeserializeObject<UsuarioViewModel>(serializedPerfil));
@@ -83,7 +86,8 @@ namespace RpgMvc.Controllers
                         HttpContext.Session.SetString("SessionPerfilUsuario", usuario.Perfil);
                     }
 
-                    HttpContext.Session.SetString("SessionTokenUsuario", serialized);
+                    HttpContext.Session.SetString("SessionTokenUsuario", usuarioToken.Token);
+                    //HttpContext.Session.SetString("SessionTokenUsuario", serialized);
                     HttpContext.Session.SetString("SessionUserName", u.UserName);
 
                     TempData["Mensagem"] = string.Format("Bem-vindo {0}!", u.UserName);
@@ -139,7 +143,6 @@ namespace RpgMvc.Controllers
         }
 
         [HttpPost]
-
         public async Task<ActionResult> AlterarEmail(UsuarioViewModel u)
         {
             try
@@ -330,7 +333,7 @@ namespace RpgMvc.Controllers
                 string uriComplementar = $"GetByLogin/{login}";
                 HttpResponseMessage response = await httpClient.GetAsync(uriBase + uriComplementar);
                 string serialized = await response.Content.ReadAsStringAsync();
-                
+
                 if (response.StatusCode == System.Net.HttpStatusCode.OK)
                 {
                     UsuarioViewModel viewModel = await
