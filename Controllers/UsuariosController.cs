@@ -264,6 +264,12 @@ namespace RpgMvc.Controllers
         {
             try
             {
+                if (ValidarLogin() == false)
+                {
+                    TempData["MensagemErro"] = "Você não está logado";
+                    return RedirectToAction("IndexLogin", "Usuarios"); //Método: IndexLogin e Controller: Usuarios ("IndexLogin", "Usuarios")
+                }
+
                 if (Request.Form.Files.Count == 0)
                     throw new System.Exception("Selecione o arquivo.");
                 else
@@ -283,12 +289,6 @@ namespace RpgMvc.Controllers
                         //string s = Convert.ToBase64String(fileBytes);//Escrever bytes numa string
                         //System.IO.File.WriteAllBytes(path, ms.ToArray()); //Escrever arquivo em uma pasta
                     }
-                }
-
-                if (ValidarLogin() == false)
-                {
-                    TempData["MensagemErro"] = "Você não está logado";
-                    return RedirectToAction("IndexLogin", "Usuarios"); //Método: IndexLogin e Controller: Usuarios ("IndexLogin", "Usuarios")
                 }
 
                 HttpClient httpClient = new HttpClient();

@@ -9,85 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RpgMvc
 build_property.RootNamespace = RpgMvc
-build_property.ProjectDir = C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc\
+build_property.ProjectDir = c:\DEV\CSharp\ETEC\Revisão 2023\RpgMvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\ADS\01.ETEC\3DS\PMII\RPG\RpgMvc
+build_property.MSBuildProjectDirectory = c:\DEV\CSharp\ETEC\Revisão 2023\RpgMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Disputas/Index.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Disputas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzcHV0YXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Disputas/IndexDisputas.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Disputas/IndexDisputas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzcHV0YXNcSW5kZXhEaXNwdXRhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Disputas/IndexHabilidades.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Disputas/IndexHabilidades.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzcHV0YXNcSW5kZXhIYWJpbGlkYWRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Home/Index.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Home/Privacy.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Personagens/Create.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Personagens/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWdlbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Personagens/Details.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Personagens/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWdlbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Personagens/Edit.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Personagens/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWdlbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Personagens/Index.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Personagens/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWdlbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Shared/Error.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Shared/_LoginPartialRpg.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Shared/_LoginPartialRpg.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWxScGcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Usuarios/AutenticarUsuario.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Usuarios/AutenticarUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQXV0ZW50aWNhclVzdWFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Usuarios/CadastrarUsuario.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Usuarios/CadastrarUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ2FkYXN0cmFyVXN1YXJpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Usuarios/IndexInformacoes.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Usuarios/IndexInformacoes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXhJbmZvcm1hY29lcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Usuarios/_AlteracaoSenha.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Usuarios/_AlteracaoSenha.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcX0FsdGVyYWNhb1NlbmhhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/_ViewImports.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/_ViewStart.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ADS/01.ETEC/3DS/PMII/RPG/RpgMvc/Views/Shared/_Layout.cshtml]
+[c:/DEV/CSharp/ETEC/Revisão 2023/RpgMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-z01m3r0ocj
